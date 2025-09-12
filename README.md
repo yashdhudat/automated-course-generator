@@ -61,6 +61,6 @@ Streamlit
 👤 Author
 Yash Dhudat
 
-LinkedIn: linkedin.com/in/yashdhudat
+LinkedIn: www.linkedin.com/in/yash-dhudat-4a231b249
 
-GitHub: github.com/yashdhudat
+GitHub: (https://github.com/yashdhudat)
