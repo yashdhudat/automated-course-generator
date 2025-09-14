@@ -9,9 +9,9 @@ It also allows exporting the generated content into a **PDF file** for easy shar
 ![Homepage](https://github.com/yashdhudat/automated-course-generator/blob/main/Screenshot%202025-09-12%20110813.png)
 
 ### 📑 Generated Course Outline
-![Course Outline](https://github.com/yashdhudat/automated-course-generator/blob/main/Screenshot%202025-09-12%20110813.png)
+![Course Outline](https://github.com/yashdhudat/automated-course-generator/blob/main/Screenshot%202025-09-12%20110852.png)
 
----
+----
 
 ## 🚀 Features
 - Generate structured **course outline** 📑  
