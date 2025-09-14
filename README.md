@@ -3,6 +3,14 @@
 An AI-powered Streamlit app that generates **course outlines, lesson content, and quizzes** from a given topic/article.  
 It also allows exporting the generated content into a **PDF file** for easy sharing.
 
+## 📸 Output Screenshots
+
+### 🏠 Homepage
+![Homepage](Screenshot 2025-09-12 110813.png)
+
+### 📑 Generated Course Outline
+![Course Outline](Screenshot 2025-09-12 110852.png)
+
 ---
 
 ## 🚀 Features
