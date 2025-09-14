@@ -9,7 +9,7 @@ It also allows exporting the generated content into a **PDF file** for easy shar
 ![Homepage](Screenshot 2025-09-12 110813.png)
 
 ### 📑 Generated Course Outline
-![Course Outline](Screenshot 2025-09-12 110852.png)
+![Course Outline]([Screenshot 2025-09-12 110852.png](https://github.com/yashdhudat/automated-course-generator/blob/main/Screenshot%202025-09-12%20110813.png))
 
 ---
 
